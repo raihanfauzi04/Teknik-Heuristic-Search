@@ -1,5 +1,6 @@
 # Teknik-Heuristic-Search
-
+## Raihan Fauzi
+## 5311421002
 
 1. Pelajari class EightPuzzleSearch, EightPuzzleSpace, dan Node
 
